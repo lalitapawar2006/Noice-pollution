@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noise Pollution</title>
+</head>
+<body>
+    <h1>Noise Pollution</h1>
+    
+    <h2>What is Noise Pollution?</h2>
+    <p>Noise pollution refers to unwanted or harmful sound that interferes with normal activities such as sleeping, communication, or simply enjoying the environment. It is caused by a variety of sources, from transportation and construction to industrial noise.</p>
+    <img src="noise_pollution1.png" alt="What is Noise Pollution?" width="500px">
+
+    <h2>Types of Noise Pollution</h2>
+    <ul>
+        <li>Environment (Traffic, trains, etc.)</li>
+        <li>Occupational (Factories, construction sites)</li>
+        <li>Social (Nightclubs, parties)</li>
+    </ul>
+    <img src="noise_pollution2.png" alt="Types of Noise Pollution" width="500px">
+
+    <h2>Causes of Noise Pollution</h2>
+    <ul>
+        <li>Traffic noise from cars, trucks, and motorcycles.</li>
+        <li>Construction activities like drilling, hammering, and heavy machinery.</li>
+        <li>Industrial operations including factories and large machinery.</li>
+        <li>Air traffic from airplanes and helicopters.</li>
+        <li>Loud music and entertainment venues.</li>
+        <li>Diwali firecrackers harm senior citizens, birds, and animals.</li>
+    </ul>
+    <img src="noise_pollution3.png" alt="Causes of Noise Pollution" width="500px">
+
+    <h2>Effects of Noise Pollution</h2>
+    <p>Noise pollution has a range of negative effects on both human health and the environment, including:</p>
+    <ul>
+        <li>Hearing loss from prolonged exposure to loud noise.</li>
+        <li>Increased stress and anxiety.</li>
+        <li>Sleep disturbance, leading to insomnia and other health issues.</li>
+        <li>Disruption of wildlife behavior and habitats, especially for birds and marine life.</li>
+    </ul>
+    <img src="noise_pollution4.png" alt="Effects of Noise Pollution" width="500px">
+
+    <h2>Prevention and Control of Noise Pollution</h2>
+    <ul>
+        <li>Using soundproofing materials in buildings to block external noise.</li>
+        <li>Establishing noise regulations in residential and industrial areas.</li>
+        <li>Encouraging the use of quieter machinery and technologies.</li>
+        <li>Planting trees and creating green belts to absorb sound.</li>
+        <li>Avoiding unnecessary honking and reducing traffic noise.</li>
+    </ul>
+    <img src="noise_pollution5.png" alt="Prevention and Control of Noise Pollution" width="500px">
+
+    <p>Thank you!</p>
+</body>
+</html>
